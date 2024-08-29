@@ -31,3 +31,4 @@ D:\Renan Almeida 2DS\2° Módulo\Renan Almeida 2DS\DS - II\Desenvolvimento de si
 D:\Renan Almeida 2DS\2° Módulo\Renan Almeida 2DS\DS - II\Desenvolvimento de sistemas\RpgApi\obj\Debug\net8.0\RpgApi.pdb
 D:\Renan Almeida 2DS\2° Módulo\Renan Almeida 2DS\DS - II\Desenvolvimento de sistemas\RpgApi\obj\Debug\net8.0\RpgApi.genruntimeconfig.cache
 D:\Renan Almeida 2DS\2° Módulo\Renan Almeida 2DS\DS - II\Desenvolvimento de sistemas\RpgApi\obj\Debug\net8.0\ref\RpgApi.dll
+D:\Renan Almeida 2DS\2° Módulo\Renan Almeida 2DS\DS - II\Desenvolvimento de sistemas\RpgApi\obj\Debug\net8.0\RpgApi.sourcelink.json
